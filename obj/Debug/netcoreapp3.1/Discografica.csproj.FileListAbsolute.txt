@@ -1,0 +1,99 @@
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\appsettings.json
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\Discografica.exe
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\Discografica.deps.json
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\Discografica.runtimeconfig.json
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\Discografica.runtimeconfig.dev.json
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\Discografica.dll
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\Discografica.pdb
+D:\carpeta\Discografica\obj\Debug\netcoreapp3.1\Discografica.csprojAssemblyReference.cache
+D:\carpeta\Discografica\obj\Debug\netcoreapp3.1\Discografica.AssemblyInfoInputs.cache
+D:\carpeta\Discografica\obj\Debug\netcoreapp3.1\Discografica.AssemblyInfo.cs
+D:\carpeta\Discografica\obj\Debug\netcoreapp3.1\Discografica.csproj.CoreCompileInputs.cache
+D:\carpeta\Discografica\obj\Debug\netcoreapp3.1\Discografica.MvcApplicationPartsAssemblyInfo.cache
+D:\carpeta\Discografica\obj\Debug\netcoreapp3.1\staticwebassets\Discografica.StaticWebAssets.Manifest.cache
+D:\carpeta\Discografica\obj\Debug\netcoreapp3.1\staticwebassets\Discografica.StaticWebAssets.xml
+D:\carpeta\Discografica\obj\Debug\netcoreapp3.1\scopedcss\bundle\Discografica.styles.css
+D:\carpeta\Discografica\obj\Debug\netcoreapp3.1\Discografica.RazorTargetAssemblyInfo.cache
+D:\carpeta\Discografica\obj\Debug\netcoreapp3.1\Discografica.dll
+D:\carpeta\Discografica\obj\Debug\netcoreapp3.1\Discografica.pdb
+D:\carpeta\Discografica\obj\Debug\netcoreapp3.1\Discografica.genruntimeconfig.cache
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\carpeta\Discografica\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\carpeta\Discografica\obj\Debug\netcoreapp3.1\Discografica.csproj.CopyComplete
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\Discografica.exe
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\Discografica.deps.json
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\Discografica.runtimeconfig.json
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\Discografica.runtimeconfig.dev.json
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\Discografica.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\Discografica.pdb
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos INDRA\Discografica\obj\Debug\netcoreapp3.1\Discografica.csprojAssemblyReference.cache
+D:\Proyectos INDRA\Discografica\obj\Debug\netcoreapp3.1\Discografica.AssemblyInfoInputs.cache
+D:\Proyectos INDRA\Discografica\obj\Debug\netcoreapp3.1\Discografica.AssemblyInfo.cs
+D:\Proyectos INDRA\Discografica\obj\Debug\netcoreapp3.1\Discografica.csproj.CoreCompileInputs.cache
+D:\Proyectos INDRA\Discografica\obj\Debug\netcoreapp3.1\Discografica.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyectos INDRA\Discografica\obj\Debug\netcoreapp3.1\staticwebassets\Discografica.StaticWebAssets.Manifest.cache
+D:\Proyectos INDRA\Discografica\obj\Debug\netcoreapp3.1\staticwebassets\Discografica.StaticWebAssets.xml
+D:\Proyectos INDRA\Discografica\obj\Debug\netcoreapp3.1\scopedcss\bundle\Discografica.styles.css
+D:\Proyectos INDRA\Discografica\obj\Debug\netcoreapp3.1\Discografica.RazorTargetAssemblyInfo.cache
+D:\Proyectos INDRA\Discografica\obj\Debug\netcoreapp3.1\Discografica.csproj.CopyComplete
+D:\Proyectos INDRA\Discografica\obj\Debug\netcoreapp3.1\Discografica.dll
+D:\Proyectos INDRA\Discografica\obj\Debug\netcoreapp3.1\Discografica.pdb
+D:\Proyectos INDRA\Discografica\obj\Debug\netcoreapp3.1\Discografica.genruntimeconfig.cache
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\Nest.dll
+D:\Proyectos INDRA\Discografica\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
